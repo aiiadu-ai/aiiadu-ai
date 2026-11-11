@@ -7,6 +7,7 @@ I turn manual routines into working systems: n8n workflows, Google Apps Script, 
 ## What I build
 
 - **AI call analytics** (n8n, AssemblyAI, OpenRouter): AI transcribes and scores every customer call by mood and topic, and answers the manager's questions in plain words.
+- **AI lead funnel** (n8n, OpenRouter, Zoho CRM, Klaviyo): a website form lead is logged, sent to the manager in Telegram and Zoho, then AI labels it hot, warm or cold and sorts it into the right email list in under 10 seconds.
 - **Telegram AI assistant** (Claude Code, Groq, OneDrive): a personal assistant that finds, sends and uploads my files from anywhere, and understands voice messages.
 - **CRM complaint linker** (Apps Script, Notion API, webhooks): links customer complaints to company cards and alerts me in Telegram.
 - **Auto-planner** (n8n, Notion API, Google Calendar): finds forgotten tasks and sends a morning brief.
